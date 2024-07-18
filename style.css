@@ -1,0 +1,16 @@
+li{
+    display: inline;
+    padding: 20px;
+    
+}
+ul{
+    background-color:brown;
+    text-align: center;
+    padding: 20px;
+}
+.col-4{
+      padding: 40px;
+}
+.btn btn-primary{
+    text-align: center;
+}
